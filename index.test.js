@@ -13,7 +13,7 @@ describe('syntax', () => {
   }
 })
 
-const Fcbuffer = require('alaexplorerjs-fcbuffer-v2.0.0')
+const Fcbuffer = require('alafcbuffer20')
 const schema = require('./schema')
 
 describe('fcbuffer', () => {

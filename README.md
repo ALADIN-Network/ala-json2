@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/ALAIO/alaexplorerjs-json-v2.0.2.svg?branch=master)](https://travis-ci.org/ALAIO/alaexplorerjs-json-v2.0.2)
-[![NPM](https://img.shields.io/npm/v/alaexplorerjs-json-v2.0.2.svg)](https://www.npmjs.org/package/alaexplorerjs-json-v2.0.2)
+[![Build Status](https://travis-ci.org/ALAIO/ala-json2.svg?branch=master)](https://travis-ci.org/ALAIO/ala-json2)
+[![NPM](https://img.shields.io/npm/v/ala-json2.svg)](https://www.npmjs.org/package/ala-json2)
 
 # About
 
@@ -24,7 +24,7 @@ echo '{"block_num_or_id": 1}' | curl http://127.0.0.1:8888/v1/chain/get_block -d
 These operations update the blockchain.  Because these are signed and stored in
 binary format a serialization and deserialization library is needed.
 
-* [alaexplorerjs-fcbuffer-v2.0.0](https://github.com/ALADIN-Network/alaexplorerjs-fcbuffer-v2.0.0) - JavaScript
+* [alafcbuffer20](https://github.com/ALADIN-Network/alafcbuffer20) - JavaScript
 
 # Updating Generated Types
 
